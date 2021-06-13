@@ -1,0 +1,22 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-self: center;
+}
+
+.Username {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.Password {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.SubmitButton {
+  margin: 5px;
+}

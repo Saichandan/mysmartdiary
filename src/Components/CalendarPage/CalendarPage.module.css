@@ -1,0 +1,37 @@
+.calendarStyle {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  margin: 10px 30px 30px 10px;
+  align-items: center;
+}
+
+.OuterBox {
+  border: #282c34 4px solid;
+}
+
+.Heading {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  align-content: center;
+  background-color: lightblue;
+  color: darkblue;
+  font-family: "Arial Black";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Content {
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  font-family: "Arial Black";
+  text-align: justify;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+.SubmitButton {
+  margin: 5px;
+}

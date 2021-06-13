@@ -1,0 +1,25 @@
+.navBarRoot {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttonStyle1 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 50%;
+  height: auto;
+  background-color: #ccdadb !important;
+  color: darkblue;
+  font-family: Arial;
+  font-size: 26px;
+}
+
+.buttonStyle2 {
+  width: 50%;
+  height: auto;
+  background-color: #e6f4f5 !important;
+  color: dimgray;
+  font-family: Arial;
+  font-size: 26px;
+}
